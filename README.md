@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">📊 Data Analytics Stack</h3>
 <p align="left">
 
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
@@ -60,16 +60,7 @@
 </p>
 
 ---
-<h3>📊 Data Analytics Stack</h3>
 
-<p align="left">
-
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvi1503&show_icons=true&locale=en&layout=compact&hide=html,css" alt="Dhruvi" /></p>
 
