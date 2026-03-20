@@ -7,13 +7,24 @@
   <img src="https://komarev.com/ghpvc/?username=dhruvi1503&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvi1503" /> 
 </p>
 
-- 🌱 I’m currently learning **Advanced Excel, Power BI & MySQL  for Data Analysis**
+- 🌱 I’m currently learning **Advanced Excel, Power BI & MySQL for Data Analysis**
 
 - 👨‍💻 Passionate about **Data Visualization, Dashboard Creation & Insights Generation**
 
 - 💬 Ask me about **Data Analysis | Power BI | SQL | Python Basics**
 
 - 📫 How to reach me: **pdhruvi071525@gmail.com**
+
+---
+
+<h3>📊 Data Analytics Skills</h3>
+
+<p>
+✔ Power BI (Dashboard Creation)<br>
+✔ Advanced Excel (Pivot Tables, Charts)<br>
+✔ Python (Pandas, NumPy)<br>
+✔ SQL (Data Querying & Analysis)
+</p>
 
 ---
 
@@ -57,7 +68,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvi1503&show_icons=true&locale=en&layout=compact" alt="Dhruvi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvi1503&show_icons=true&locale=en&layout=compact&hide=html,css" alt="Dhruvi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvi1503&show_icons=true&locale=en" alt="dhruvi1503" /></p>
 
