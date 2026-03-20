@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=dhruvi1503&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvi1503" /> 
 </p>
 
-- 🌱 I’m currently learning **Advanced Excel, Power BI, SQL & Python for Data Analysis**
+- 🌱 I’m currently learning **Advanced Excel, Power BI & MySQL  for Data Analysis**
 
 - 👨‍💻 Passionate about **Data Visualization, Dashboard Creation & Insights Generation**
 
